@@ -7,13 +7,13 @@ class sortalist:
         if(b == "asc"):
             for i in range(len(a)):
                 for j in range(0,len(a)-1):
-                    if a[j] < a[j+1]:
+                    if a[j] > a[j+1]:
                         a[j], a[j+1] = a[j+1], a[j]
             return a
         elif(b == "desc"):
             for i in range(len(a)):
                 for j in range(0,len(a)-1):
-                    if a[j] > a[j+1]:
+                    if a[j] < a[j+1]:
                         a[j], a[j+1] = a[j+1], a[j]
             return a
         elif(b == "none"):
