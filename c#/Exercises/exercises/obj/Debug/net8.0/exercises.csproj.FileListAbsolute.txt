@@ -1,0 +1,14 @@
+C:\Users\yasin\Documents\C#\exercises\exercises\bin\Debug\net8.0\exercises.exe
+C:\Users\yasin\Documents\C#\exercises\exercises\bin\Debug\net8.0\exercises.deps.json
+C:\Users\yasin\Documents\C#\exercises\exercises\bin\Debug\net8.0\exercises.runtimeconfig.json
+C:\Users\yasin\Documents\C#\exercises\exercises\bin\Debug\net8.0\exercises.dll
+C:\Users\yasin\Documents\C#\exercises\exercises\bin\Debug\net8.0\exercises.pdb
+C:\Users\yasin\Documents\C#\exercises\exercises\obj\Debug\net8.0\exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\Documents\C#\exercises\exercises\obj\Debug\net8.0\exercises.AssemblyInfoInputs.cache
+C:\Users\yasin\Documents\C#\exercises\exercises\obj\Debug\net8.0\exercises.AssemblyInfo.cs
+C:\Users\yasin\Documents\C#\exercises\exercises\obj\Debug\net8.0\exercises.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Documents\C#\exercises\exercises\obj\Debug\net8.0\exercises.dll
+C:\Users\yasin\Documents\C#\exercises\exercises\obj\Debug\net8.0\refint\exercises.dll
+C:\Users\yasin\Documents\C#\exercises\exercises\obj\Debug\net8.0\exercises.pdb
+C:\Users\yasin\Documents\C#\exercises\exercises\obj\Debug\net8.0\exercises.genruntimeconfig.cache
+C:\Users\yasin\Documents\C#\exercises\exercises\obj\Debug\net8.0\ref\exercises.dll
